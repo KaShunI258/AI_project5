@@ -1,0 +1,5 @@
+Experiment,Loss,Sampler,Best_Val_F1,Best_Neutral_F1
+Exp1_Baseline_CE,ce,False,0.6818381246065857,0.32
+Exp2_ACB_Loss,acb,False,0.6716135440026938,0.3548387096774194
+Exp3_Sampler,ce,True,0.6507367151865486,0.375
+Exp4_ACB_Plus_Sampler,acb,True,0.6586207453009291,0.3725490196078431

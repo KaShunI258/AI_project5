@@ -1,0 +1,131 @@
+guid,reason,label,detail
+202,Label Conflict (Visual Match),negative,Conflict with ['2106']
+2106,Label Conflict (Visual Match),positive,Conflict with ['202']
+396,Label Conflict (Visual Match),neutral,Conflict with ['1423']
+1423,Label Conflict (Visual Match),positive,Conflict with ['396']
+2498,Duplicate Data (Visual Match),positive,
+1383,Label Conflict (Visual Match),negative,Conflict with ['2090']
+2090,Label Conflict (Visual Match),positive,Conflict with ['1383']
+1311,Duplicate Data (Visual Match),positive,
+2165,Duplicate Data (Visual Match),neutral,
+966,Duplicate Data (Visual Match),positive,
+1427,Duplicate Data (Visual Match),positive,
+1203,Label Conflict (Visual Match),positive,Conflict with ['685']
+685,Label Conflict (Visual Match),negative,Conflict with ['1203']
+1015,Label Conflict (Visual Match),positive,Conflict with ['1698']
+1698,Label Conflict (Visual Match),negative,Conflict with ['1015']
+275,Duplicate Data (Visual Match),positive,
+1266,Duplicate Data (Visual Match),negative,
+337,Duplicate Data (Visual Match),positive,
+884,Label Conflict (Visual Match),negative,Conflict with ['1542']
+1542,Label Conflict (Visual Match),positive,Conflict with ['884']
+783,Duplicate Data (Visual Match),negative,
+1765,Duplicate Data (Visual Match),positive,
+837,Label Conflict (Visual Match),negative,Conflict with ['1489']
+1489,Label Conflict (Visual Match),positive,Conflict with ['837']
+1884,Duplicate Data (Visual Match),neutral,
+1434,Duplicate Data (Visual Match),positive,
+620,Duplicate Data (Visual Match),positive,
+1404,Label Conflict (Visual Match),negative,Conflict with ['43']
+43,Label Conflict (Visual Match),positive,Conflict with ['1404']
+3485,Duplicate Data (Visual Match),positive,
+1458,Duplicate Data (Visual Match),positive,
+3235,Duplicate Data (Visual Match),positive,
+811,Duplicate Data (Visual Match),positive,
+3177,Duplicate Data (Visual Match),positive,
+969,Duplicate Data (Visual Match),positive,
+1196,Label Conflict (Visual Match),neutral,Conflict with ['1719']
+1719,Label Conflict (Visual Match),positive,Conflict with ['1196']
+1001,Duplicate Data (Visual Match),positive,
+68,Duplicate Data (Visual Match),positive,
+2167,Label Conflict (Visual Match),negative,Conflict with ['925']
+925,Label Conflict (Visual Match),positive,Conflict with ['2167']
+883,Duplicate Data (Visual Match),negative,
+854,Duplicate Data (Visual Match),negative,
+1575,Duplicate Data (Visual Match),negative,
+586,Duplicate Data (Visual Match),neutral,
+1448,Duplicate Data (Visual Match),positive,
+789,Duplicate Data (Visual Match),positive,
+1506,Duplicate Data (Visual Match),positive,
+308,Duplicate Data (Visual Match),positive,
+1582,Duplicate Data (Visual Match),positive,
+1395,Duplicate Data (Visual Match),positive,
+5095,Duplicate Data (Visual Match),positive,
+945,Duplicate Data (Visual Match),positive,
+419,Duplicate Data (Visual Match),positive,
+1515,Label Conflict (Visual Match),negative,Conflict with ['862']
+862,Label Conflict (Visual Match),positive,Conflict with ['1515']
+858,Label Conflict (Visual Match),positive,Conflict with ['1510']
+1510,Label Conflict (Visual Match),negative,Conflict with ['858']
+385,Duplicate Data (Visual Match),negative,
+1535,Label Conflict (Visual Match),positive,Conflict with ['875']
+875,Label Conflict (Visual Match),negative,Conflict with ['1535']
+56,Label Conflict (Visual Match),neutral,Conflict with ['1396']
+1396,Label Conflict (Visual Match),negative,Conflict with ['56']
+1197,Duplicate Data (Visual Match),positive,
+1382,Duplicate Data (Visual Match),positive,
+1319,Duplicate Data (Visual Match),negative,
+1125,Label Conflict (Visual Match),neutral,Conflict with ['1817']
+1817,Label Conflict (Visual Match),positive,Conflict with ['1125']
+1171,Duplicate Data (Visual Match),positive,
+1623,Duplicate Data (Visual Match),positive,
+2160,Duplicate Data (Visual Match),positive,
+1012,Duplicate Data (Visual Match),neutral,
+1995,Duplicate Data (Visual Match),positive,
+2129,Label Conflict (Visual Match),negative,Conflict with ['1391']
+1391,Label Conflict (Visual Match),positive,Conflict with ['2129']
+1977,Label Conflict (Visual Match),negative,Conflict with ['1162']
+1162,Label Conflict (Visual Match),neutral,Conflict with ['1977']
+1661,Duplicate Data (Visual Match),neutral,
+1430,Duplicate Data (Visual Match),positive,
+807,Label Conflict (Visual Match),positive,Conflict with ['1457']
+1457,Label Conflict (Visual Match),neutral,Conflict with ['807']
+1563,Duplicate Data (Visual Match),positive,
+430,Duplicate Data (Visual Match),negative,
+857,Duplicate Data (Visual Match),neutral,
+922,Duplicate Data (Visual Match),negative,
+1565,Duplicate Data (Visual Match),negative,
+463,Duplicate Data (Visual Match),positive,
+852,Duplicate Data (Visual Match),positive,
+1184,Label Conflict (Visual Match),positive,Conflict with ['999']
+999,Label Conflict (Visual Match),neutral,Conflict with ['1184']
+24,Label Conflict (Visual Match),neutral,Conflict with ['1403']
+1403,Label Conflict (Visual Match),negative,Conflict with ['24']
+869,Duplicate Data (Visual Match),negative,
+878,Label Conflict (Visual Match),positive,Conflict with ['1538']
+1538,Label Conflict (Visual Match),negative,Conflict with ['878']
+815,Duplicate Data (Visual Match),positive,
+10,Duplicate Data (Visual Match),negative,
+2158,Duplicate Data (Visual Match),negative,
+1087,Duplicate Data (Visual Match),negative,
+551,Duplicate Data (Visual Match),negative,
+79,Duplicate Data (Visual Match),positive,
+1597,Duplicate Data (Visual Match),positive,
+763,Duplicate Data (Visual Match),positive,
+1583,Label Conflict (Visual Match),negative,Conflict with ['942']
+942,Label Conflict (Visual Match),positive,Conflict with ['1583']
+1459,Duplicate Data (Visual Match),positive,
+924,Duplicate Data (Visual Match),positive,
+882,Label Conflict (Visual Match),negative,Conflict with ['1549']
+1549,Label Conflict (Visual Match),neutral,Conflict with ['882']
+1388,Duplicate Data (Visual Match),positive,
+1503,Duplicate Data (Visual Match),positive,
+1603,Duplicate Data (Visual Match),neutral,
+1181,Duplicate Data (Visual Match),positive,
+1504,Duplicate Data (Visual Match),positive,
+5059,Duplicate Data (Visual Match),positive,
+1310,Label Conflict (Visual Match),neutral,Conflict with ['1677']
+1677,Label Conflict (Visual Match),positive,Conflict with ['1310']
+1392,Duplicate Data (Visual Match),positive,
+1408,Duplicate Data (Visual Match),positive,
+1827,Duplicate Data (Visual Match),positive,
+1622,Label Conflict (Visual Match),neutral,Conflict with ['972']
+972,Label Conflict (Visual Match),negative,Conflict with ['1622']
+1376,Duplicate Data (Visual Match),positive,
+5065,Duplicate Data (Visual Match),positive,
+1147,Duplicate Data (Visual Match),negative,
+864,Duplicate Data (Visual Match),positive,
+998,Duplicate Data (Visual Match),positive,
+1122,Label Conflict (Visual Match),negative,Conflict with ['546']
+546,Label Conflict (Visual Match),neutral,Conflict with ['1122']
+1700,Duplicate Data (Visual Match),positive,
